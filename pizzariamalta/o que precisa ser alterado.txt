@@ -1,0 +1,9 @@
+index.php 
+	alterar o id_empresa do cliente. (linha 37).
+	alterar if else da lista de produtos (linha 100).
+
+
+bebidas.php 
+	alterar o id_empresa do cliente. (linha 11). 
+	alterar o id_categoria. (linha 12)
+	
